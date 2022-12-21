@@ -15,10 +15,10 @@ After narrowing down all the votes to rows with vote counts of 20 or greater in 
 - This means 46.1% of the Vine-member reviews were 5-star compared to the 31.3% in the non-member group. 
 
 
-![]/(Images/1.png)
+![](/Images/1.png)
 
 
-![]/(Images/2.png)
+![](/Images/2.png)
 
 
 ##Summary
